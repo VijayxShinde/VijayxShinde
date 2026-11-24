@@ -172,11 +172,11 @@ August 2020 – June 2023
 
 ## Connect
 
-- [LinkedIn]: https://www.linkedin.com/in/vijay-shinde-1a6b58292
-- [GitHub]: https://github.com/VijayxShinde
-- [Portfolio]: https://vijayxshinde.github.io/
-- [ORCID]: https://orcid.org/0009-0007-6962-0274
-- [Email]: vijayxshinde@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vijay-shinde-1a6b58292
+- GitHub: https://github.com/VijayxShinde
+- Portfolio: https://vijayxshinde.github.io/
+- ORCID: https://orcid.org/0009-0007-6962-0274
+- Email: vijayxshinde@gmail.com
 
 ---
 
